@@ -1,4 +1,4 @@
-# Emotional Face Perception Does Not Appear to Follow a Predictive Coarse-to-Fine Model
+# Emotional Face Perception Does Not Appear to Follow a Predictive Coarse-to-Fine Processing
 ## Reference
 Preprint: ...
 ## Data
